@@ -7,13 +7,13 @@
 A barebones app project for sending messages in Python using Twilio API.
 
 ## About The Project
-The python app lets you send SMS to a regisatered Twilio number (As the account you will test it on is a trial account). Have fun sending weird messages to
-yoursef or your spouse through python XD.
+The Python app lets you send SMS to a registered Twilio number (As the account you will test it on is a trial account). Have fun sending weird messages to
+yourself or your spouse through Python.
 
 ## How To Run The App
 
 ***With a free Twilio account, you only get to text verified numbers.***
-#### 1. Get a Github  profile.
+#### 1. Get a GitHub  profile.
 #### 2. Star this project ;)!
 #### 3. Create an account on [Twilio](http://twilio.com).
 #### 4. Verify a Phone Number on Twilio https://www.twilio.com/console/phone-numbers/verified. That you would like to text.
@@ -27,13 +27,13 @@ yoursef or your spouse through python XD.
 #### 7. Get Message Service SID
 - [ ] [Create New Messaging Service](https://www.twilio.com/console/sms/services/) 
 - [ ] Select 'Mixed'
-- [ ] Select 'Numbers' on the left side of dashboard and then 'Add an Existing Number' to add the Twilio number you created.
+- [ ] Select 'Numbers' on the left side of the dashboard and then 'Add an Existing Number' to add the Twilio number you created.
 - [ ] Go to 'Settings' and hit 'Save'.
-#### 7. Put your twilio credentials, service message SID and Twilio phone numbers in `credentials.py`
+#### 7. Put your Twilio credentials, service message SID, and Twilio phone numbers in `credentials.py`
 #### 8. Clone this repository on your desktop.
-#### 9. Open your terminal and `pip install twilio`.
+#### 9. Open your terminal and `pip install Twilio`.
 #### 10. Open `send_sms.py` in **IDLE** and Run it!
-#### Or if you want to be cool on your mac...
+#### Or if you want to be cool on your Mac...
 On Your Mac hit <kbd>CMD</kbd>+<kbd>SPACE</kbd> and type **Terminal**.
 Then type in the following command:
 ```
@@ -49,7 +49,7 @@ python Desktop/CP-Twilio-Python-Text-App/send_sms.py
 * Twilio Free Trial Account
 
 ## Contributing
-Fee free to add suggestions!
+Feel free to add suggestions!
 
 ## License
-The contents of this repository is licensed under a [MIT License](https://opensource.org/licenses/MIT)
+The contents of this repository are licensed under a [MIT License](https://opensource.org/licenses/MIT)
