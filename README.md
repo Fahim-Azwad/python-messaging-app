@@ -8,7 +8,7 @@ A barebones app project for sending messages in Python using Twilio API.
 
 ## About The Project
 The Python app lets you send SMS to a registered Twilio number (As the account you will test it on is a trial account). Have fun sending weird messages to
-yourself or your spouse through Python.
+yourself or your partner through Python!
 
 ## How To Run The App
 
